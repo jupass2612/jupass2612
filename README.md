@@ -4,7 +4,7 @@
 Soy un entusiasta de la tecnología enfocado en el desarrollo de software y la resolución de problemas. Me apasiona aprender nuevas herramientas y construir proyectos que generen un impacto positivo.
 
 - 🔭 **Actualmente:** Trabajando en fortalecer mis bases de programación y explorando nuevos frameworks.
-- 🌱 **Aprendiendo:** Profundizando en [Aquí puedes poner una tecnología, ej: JavaScript o Python].
+- 🌱 **Aprendiendo:** Profundizando en Vue.js.
 - 💬 **Hablemos de:** Desarrollo web, lógica de programación y proyectos colaborativos.
 - ⚡ **Dato curioso:** Siempre busco la forma más eficiente de optimizar mi flujo de trabajo.
 
