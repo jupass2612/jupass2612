@@ -1,61 +1,36 @@
-# ¡Hola! 👋 I'm Juan Pablo
+# ¡Hola! Soy Juan Pablo Solis (jupass2612) 👋
 
-[English](#english) | [Español](#español)
+### 👨‍💻 Un poco sobre mí...
+Soy un entusiasta de la tecnología enfocado en el desarrollo de software y la resolución de problemas. Me apasiona aprender nuevas herramientas y construir proyectos que generen un impacto positivo.
 
-<div id="english">
-
-## 🚀 About Me
-Passionate developer focused on creating innovative solutions through personal projects. I love learning new technologies and sharing knowledge with the developer community.
-
-## 🛠️ Tech Stack
-- Frontend Development: HTML, CSS, JavaScript
-- Backend Development: Node.js
-- Database Management
-- Security Implementation
-- API Integration
-
-## 🌟 Featured Projects
-- 🔒 **User Authentication System** - Secure login and registration system
-- 📊 **Data Management Platform** - Efficient storage and retrieval of user data
-- 🛡️ **Security Framework** - Implementation of best security practices
-- 🔄 **API Integration Hub** - Seamless connection with external services
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=radical)
-
-## 🤝 Let's Connect
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- GitHub: [jupass2612](https://github.com/jupass2612)
-
-</div>
-
-<div id="español">
-
-## 🚀 Sobre Mí
-Desarrollador apasionado enfocado en crear soluciones innovadoras a través de proyectos personales. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad de desarrolladores.
-
-## 🛠️ Tecnologías
-- Desarrollo Frontend: HTML, CSS, JavaScript
-- Desarrollo Backend: Node.js
-- Gestión de Bases de Datos
-- Implementación de Seguridad
-- Integración de APIs
-
-## 🌟 Proyectos Destacados
-- 🔒 **Sistema de Autenticación** - Sistema seguro de login y registro
-- 📊 **Plataforma de Gestión de Datos** - Almacenamiento y recuperación eficiente de datos
-- 🛡️ **Marco de Seguridad** - Implementación de mejores prácticas de seguridad
-- 🔄 **Centro de Integración API** - Conexión fluida con servicios externos
-
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=radical&locale=es)
-
-## 🤝 Conectemos
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- GitHub: [jupass2612](https://github.com/jupass2612)
-
-</div>
+- 🔭 **Actualmente:** Trabajando en fortalecer mis bases de programación y explorando nuevos frameworks.
+- 🌱 **Aprendiendo:** Profundizando en [Aquí puedes poner una tecnología, ej: JavaScript o Python].
+- 💬 **Hablemos de:** Desarrollo web, lógica de programación y proyectos colaborativos.
+- ⚡ **Dato curioso:** Siempre busco la forma más eficiente de optimizar mi flujo de trabajo.
 
 ---
 
-⭐️ From [jupass2612](https://github.com/jupass2612)
+### 🚀 Tecnologías y Herramientas
+Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python,mysql" />
+  </a>
+</p>
+
+> *Nota: Puedes editar los iconos de arriba cambiando los nombres en el link (ej: react, docker, java).*
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupass2612&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Conectemos
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/TU-USUARIO-AQUI)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tu-correo@ejemplo.com)
