@@ -1,35 +1,119 @@
-# ¡Hola! Soy Juan Pablo Solis (jupass2612) 👋
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e88&height=220&section=header&text=Juan%20Pablo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=programo%20de%20d%C3%ADa%20%C2%B7%20entreno%20de%20noche&descAlignY=58&descSize=20" width="100%"/>
+</p>
 
-### 👨‍💻 Un poco sobre mí...
-Soy un entusiasta de la tecnología enfocado en el desarrollo de software y la resolución de problemas. Me apasiona aprender nuevas herramientas y construir proyectos que generen un impacto positivo.
-
-- 🔭 **Actualmente:** Trabajando en fortalecer mis bases de programación y explorando nuevos frameworks.
-- 🌱 **Aprendiendo:** Profundizando en Vue.js.
-- 💬 **Hablemos de:** Desarrollo web, lógica de programación y proyectos colaborativos.
-- ⚡ **Dato curioso:** Siempre busco la forma más eficiente de optimizar mi flujo de trabajo.
-
----
-
-### 🚀 Tecnologías y Herramientas
-Aquí están algunas de las tecnologías con las que trabajo o estoy aprendiendo:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python,mysql" />
+<p align="center">
+  <a href="https://github.com/jupass2612">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Pablo+%F0%9F%91%8B;Desde+Quer%C3%A9taro%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Hago+apps+por+gusto+y+por+cari%C3%B1o+%F0%9F%92%BB;Subiendo+de+rango+en+el+gym+%F0%9F%8F%8B%EF%B8%8F;IoT+%2B+.NET+%2B+Vue+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
   </a>
 </p>
 
-> *Nota: Puedes editar los iconos de arriba cambiando los nombres en el link (ej: react, docker, java).*
+<!-- ===================== SOBRE MÍ ===================== -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/>
+  Un poco sobre mí
+</h2>
 
----
+<table>
+<tr>
+<td width="55%">
 
-### 📊 Mis Estadísticas de GitHub
+- 🔌 Me encanta cacharrear con **IoT**: ESP32, relevadores y módulos raros
+- 💻 Fan de las apps de escritorio bonitas en **.NET / WPF / WinUI**
+- 🖋️ Coleccionando tatuajes e ideas para el siguiente
+- ⚡ Dato random: si algo lo hago dos veces, termino haciéndole una app
+
+</td>
+<td width="45%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<!-- ===================== STATUS TIPO ANIME ===================== -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="35"/>
+  Pantalla de status
+</h2>
+
+```text
+╔══════════════════════════════════════════╗
+║  JUGADOR: Juan Pablo        CLASE: Dev   ║
+║  RANGO:   Cazador en ascenso   🗡️        ║
+╠══════════════════════════════════════════╣
+║  FUERZA      ████████░░   gym diario     ║
+║  CÓDIGO      █████████░   .NET · Vue     ║
+║  CREATIVIDAD ████████░░   apps con alma  ║
+║  CAFEÍNA     ██████████   MAX            ║
+╚══════════════════════════════════════════╝
+```
+
+<!-- ===================== STACK ===================== -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"/>
+  Mi inventario
+</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupass2612&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,js,html,css,spring,java,python,cpp,arduino,linux,sqlite,git,vscode,visualstudio&perline=8&theme=dark"/>
 </p>
 
----
+<!-- ===================== PROYECTOS ===================== -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35"/>
+  Cosas que he construido
+</h2>
 
-### 📬 Conectemos
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juan.solis2612@gmail.com)
+<p align="center">
+  <a href="https://github.com/jupass2612/canciones">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=canciones&theme=radical&hide_border=true&bg_color=0f0c29"/>
+  </a>
+  <a href="https://github.com/jupass2612/Api_titkok">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=Api_titkok&theme=radical&hide_border=true&bg_color=0f0c29"/>
+  </a>
+  <a href="https://github.com/jupass2612/Programador-WT32-ETH01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=Programador-WT32-ETH01&theme=radical&hide_border=true&bg_color=0f0c29"/>
+  </a>
+  <a href="https://github.com/jupass2612/user-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=user-management-system&theme=radical&hide_border=true&bg_color=0f0c29"/>
+  </a>
+</p>
+
+<!-- ===================== STATS ===================== -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/>
+  Mis stats
+</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupass2612&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jupass2612&theme=radical&hide_border=true&background=0f0c29"/>
+</p>
+
+<!-- ===================== SNAKE ===================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupass2612/jupass2612/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/jupass2612/jupass2612/output/github-snake.svg" alt="snake"/>
+  </picture>
+</p>
+
+<!-- ===================== CIERRE ===================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
+
+<p align="center">
+  <i>"Un nivel a la vez."</i> ⚔️
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jupass2612&color=ff2e88&style=for-the-badge&label=VISITANTES"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
