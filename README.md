@@ -40,7 +40,7 @@
 ```text
 ╔══════════════════════════════════════════╗
 ║  JUGADOR: Juan Pablo        CLASE: Dev   ║
-║  RANGO:   Cazador en ascenso   🗡️        ║
+║  RANGO:   Cazador en ascenso             ║
 ╠══════════════════════════════════════════╣
 ║  FUERZA      ████████░░   gym diario     ║
 ║  CÓDIGO      █████████░   .NET · Vue     ║
@@ -65,20 +65,33 @@
   Cosas que he construido
 </h2>
 
-<p align="center">
-  <a href="https://github.com/jupass2612/canciones">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=canciones&theme=radical&hide_border=true&bg_color=0f0c29"/>
-  </a>
-  <a href="https://github.com/jupass2612/Api_titkok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=Api_titkok&theme=radical&hide_border=true&bg_color=0f0c29"/>
-  </a>
-  <a href="https://github.com/jupass2612/Programador-WT32-ETH01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=Programador-WT32-ETH01&theme=radical&hide_border=true&bg_color=0f0c29"/>
-  </a>
-  <a href="https://github.com/jupass2612/user-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jupass2612&repo=user-management-system&theme=radical&hide_border=true&bg_color=0f0c29"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/jupass2612/canciones"><b>🎶 canciones</b></a><br/>
+  <sub>Webs de canciones con letras sincronizadas</sub><br/><br/>
+  <img src="https://img.shields.io/badge/HTML-ff2e88?style=for-the-badge&logo=html5&logoColor=white"/>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/jupass2612/Api_titkok"><b>📱 Api_titkok</b></a><br/>
+  <sub>Proyecto completo de las cápsulas de TikTok</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Vue-302b63?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/jupass2612/Programador-WT32-ETH01"><b>🔌 Programador-WT32-ETH01</b></a><br/>
+  <sub>Cacharreo IoT con el WT32-ETH01</sub><br/><br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-302b63?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/jupass2612/user-management-system"><b>👥 user-management-system</b></a><br/>
+  <sub>Gestión de usuarios con Spring Boot y Vue</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Spring-ff2e88?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-302b63?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+</td>
+</tr>
+</table>
 
 <!-- ===================== STATS ===================== -->
 <h2>
@@ -87,8 +100,7 @@
 </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jupass2612&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupass2612&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jupass2612&bg_color=0f0c29&color=ffffff&line=ff2e88&point=ffffff&area=true&area_color=302b63&hide_border=true&radius=8"/>
 </p>
 
 <p align="center">
@@ -97,10 +109,7 @@
 
 <!-- ===================== SNAKE ===================== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jupass2612/jupass2612/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/jupass2612/jupass2612/output/github-snake.svg" alt="snake"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/jupass2612/jupass2612/output/snake.svg" alt="snake"/>
 </p>
 
 <!-- ===================== CIERRE ===================== -->
